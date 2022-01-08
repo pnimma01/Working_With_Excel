@@ -1,14 +1,14 @@
-# ** Kickstarting with Excel**
+#  Kickstarting with Excel
 
-## ** Overview of Project**
+##  Overview of Project
 
 This data analysis is performed to determinie the success criteria based on the timing of release and funding goals.
 
-## ** Purpose**
+##  Purpose
 
 The success of an initiative depends on lot of variables, and it is extremely critical to time the release of any product, the purpose of this project is to analyze historical data and present it in such a way that the stakeholders can easily visualize the data to make important decisions.
 
-## ** Analysis and Challenges**
+##  Analysis and Challenges
 
 ### Analysis of Outcomes Based on Launch Date
 
@@ -16,7 +16,7 @@ Analysis of Outcomes based on Launch dates:
 
 Following line graph provides visual representation of the outcome based on launch date.
 
-[Theater Outcomes Based on Launch Date](https://github.com/pnimma01/Working_With_Excel/blob/2638ddcb8c658173bccf9aebe2214071484ebada/Resources/Theater_Outcomes_vs_Launch.png)
+![Theater Outcomes Based on Launch Date](https://github.com/pnimma01/Working_With_Excel/blob/2638ddcb8c658173bccf9aebe2214071484ebada/Resources/Theater_Outcomes_vs_Launch.png)
 
 Based on the line graph, it becomes imperative that very high volume of plays release between March and September,and become susccessful.
 
@@ -24,7 +24,7 @@ Based on the line graph, it becomes imperative that very high volume of plays re
 
 Following line graph provides visual representation of the outcome based on launch date.
 
-[Theater Outcomes Based on Goals](https://github.com/pnimma01/Working_With_Excel/blob/2638ddcb8c658173bccf9aebe2214071484ebada/Resources/Outcomes_vs_Goals.png)
+![Theater Outcomes Based on Goals](https://github.com/pnimma01/Working_With_Excel/blob/2638ddcb8c658173bccf9aebe2214071484ebada/Resources/Outcomes_vs_Goals.png)
 
 Base on the line graph, the chances of a successful launch decrese as the goal amount increases where the goal is upto $25,0000. The shows where the goal is between $35,000 to $45,000 are hugely successful too.
 
