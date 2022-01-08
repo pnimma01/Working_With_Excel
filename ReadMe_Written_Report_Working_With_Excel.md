@@ -26,7 +26,7 @@ Following line graph provides visual representation of the outcome based on laun
 
 ![Theater Outcomes Based on Goals](https://github.com/pnimma01/Working_With_Excel/blob/2638ddcb8c658173bccf9aebe2214071484ebada/Resources/Outcomes_vs_Goals.png)
 
-Base on the line graph, the chances of a successful launch decrese as the goal amount increases where the goal is upto $25,0000. The shows where the goal is between $35,000 to $45,000 are hugely successful too.
+Based on the line graph, the chances of a successful launch decrese as the goal amount increases where the goal is upto $25,0000. The shows where the goal is between $35,000 to $45,000 are hugely successful too.
 
 ### Challenges and Difficulties Encountered
 
